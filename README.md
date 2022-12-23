@@ -6,4 +6,4 @@ pip install pymysql
 
 set FLASK_DEBUG=True / export FLASK_DEBUG=1
 
-Databáze v MySQL
+Databáze v MySQL na Apache serveru
