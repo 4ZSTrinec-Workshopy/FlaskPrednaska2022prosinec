@@ -11,4 +11,4 @@ On windows: set FLASK_DEBUG=True
 
 ### Database setup
 Install xampp app -> start Apache and MySQL \
-localhost:<mysql-port>
+localhost:(mysql-port)
